@@ -1,26 +1,22 @@
-<h1 align="center">👋 JolydipsExpress - Taller Cesde 🚀</h1>
+<h1 align="center">TIENDA DE AGUACATES</h1>
 
-## Overview
+<p align="center">
 
-![design](./public/design.png)
+<img src="https://i.ibb.co/LP4YSG5/Logo.png" width="200" heigth="200">
 
-### Built With
+</p>
 
-- [Pug]
-- [NodeJs]
-- [Express]
-- [Nodemon]
+***
 
-## How To Use
+Construido con:
 
-```bash
-# Clone this repository
-$ git clone https://github.com/LuisC73/JolydipsExpress.git
+- Pug
+- NodeJs
+- Express
+***
 
-#Run the project
+Contributors: Santiago Alvarez Ospitia
+-Freddy Nelson Muñoz Yepes
 
-npm install
-
-nodemon index
 
 ```
